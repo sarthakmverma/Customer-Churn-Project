@@ -62,6 +62,5 @@ Future Work
 How to Run the Project
 1.	Clone the repository.
 2.	Install required dependencies using pip install -r requirements.txt.
-3.	Run the Jupyter notebook Customer Churn Pred.ipynb to reproduce the analysis and models.
+3.	Run the Jupyter Notebook Customer Churn Pred.ipynb to reproduce the analysis and models.
 
-![image](https://github.com/user-attachments/assets/d7ba3fdc-782f-4561-a443-f4ecb96c4755)
