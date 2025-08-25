@@ -64,3 +64,5 @@ How to Run the Project
 2.	Install required dependencies using pip install -r requirements.txt.
 3.	Run the Jupyter Notebook Customer Churn Pred.ipynb to reproduce the analysis and models.
 
+Project Deck: https://sarthakmverma.github.io/Data_Engineer/projects/ChurnPrediction_AnalyticsProject.pptx
+
